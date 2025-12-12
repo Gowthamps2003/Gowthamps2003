@@ -1,5 +1,8 @@
 ## Hi I am Gowtham 👋
 
+DevOps and Cloud Engineering professional with hands-on experience in AWS, Docker, Kubernetes, Jenkins, and Terraform. Certified by HCL GUVI with strong expertise in CI/CD automation, infrastructure provisioning, and monitoring using Prometheus and Grafana. Skilled in Linux, Git, Python, and Bash with a passion for scalable cloud systems.
+
+
 <!--
 **Gowthamps2003/Gowthamps2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
